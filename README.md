@@ -16,7 +16,7 @@ The dataset used to train the embeddings is available on Kaggle: https://www.kag
 
 ## Blog Post
 
-A blog post about extracting the embeddings of Hacker News posts to get a recommendation engine is available at https://julienc.me/articles/Extract_embeddings_Hacker_News_article
+A blog post about extracting the embeddings of Hacker News posts to get a recommendation engine is available at [https://julienc.me/articles/Extract_embeddings_Hacker_News_article](https://julienc.me/articles/extract_embeddings_hacker_news_article).
 
 ## Contact
 
